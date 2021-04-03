@@ -11,3 +11,6 @@ https://play.google.com/store/apps/details?id=com.noxasch.hari_date_tracker&hl=e
 
 Treat me a coffee and help the app to stay adfree: https://ko-fi.com/noxasch
 
+---
+- [Privacy Policy](https://github.com/noxasch/hari_counter/blob/master/privacy-policy.md)
+- [Terms Of Use](https://github.com/noxasch/hari_counter/blob/master/terms-of-use.md)
