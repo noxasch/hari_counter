@@ -1,4 +1,4 @@
-# HariCounter - Day Tracker
+# HariCounter - Day Tracker v1.10.2 [![Flutter CICD](https://github.com/noxasch/date_tracker/actions/workflows/integrates.yaml/badge.svg?branch=android-stable)](https://github.com/noxasch/date_tracker/actions/workflows/integrates.yaml)
 This is HariCounter App Public Repo 
 
 Open for bug report and feature request.
@@ -11,6 +11,11 @@ https://play.google.com/store/apps/details?id=com.noxasch.hari_date_tracker&hl=e
 
 Treat me a coffee and help the app to stay adfree: https://ko-fi.com/noxasch
 
----
+## Current App Status
+
+Currently i am working on rewriting the internal part of the app to accomodate new feature and to fix existing bug.
+
+## Links
+
 - [Privacy Policy](https://github.com/noxasch/hari_counter/blob/master/privacy-policy.md)
 - [Terms Of Use](https://github.com/noxasch/hari_counter/blob/master/terms-of-use.md)
