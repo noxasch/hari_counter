@@ -16,7 +16,8 @@ The app does use third party services that may collect information used to ident
 Link to privacy policy of third party service providers used by the app
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [Google AdMob](https://policies.google.com/technologies/partner-sites)
+*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+*   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 
 **Log Data**
@@ -62,4 +63,4 @@ This policy is effective as of 2020-08-09
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at noxasch@gmail.com.
 
-Last Modified On: 9 August 2020
+Last Modified On: 18 August 2022
