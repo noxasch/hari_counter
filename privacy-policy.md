@@ -61,6 +61,6 @@ This policy is effective as of 2020-08-09
 
 **Contact Us**
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at noxasch@gmail.com.
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at support@noxasch.tech
 
 Last Modified On: 18 August 2022
