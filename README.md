@@ -1,4 +1,4 @@
-# HariCounter - Day Tracker v1.10.2 [![Flutter CICD](https://github.com/noxasch/date_tracker/actions/workflows/integrates.yaml/badge.svg?branch=android-stable)](https://github.com/noxasch/date_tracker/actions/workflows/integrates.yaml)
+# HariCounter - Day Tracker v2.0.0 [![Integration](https://github.com/noxasch/date_tracker_v2/actions/workflows/integration.yaml/badge.svg)](https://github.com/noxasch/date_tracker_v2/actions/workflows/integration.yaml)
 This is HariCounter App Public Repo 
 
 Open for bug report and feature request.
