@@ -1,4 +1,4 @@
-# HariCounter - Day Tracker v2.0.0 [![Integration](https://github.com/noxasch/date_tracker_v2/actions/workflows/integration.yaml/badge.svg)](https://github.com/noxasch/date_tracker_v2/actions/workflows/integration.yaml)
+# HariCounter - Day Tracker v2.0.0
 This is HariCounter App Public Repo 
 
 Open for bug report and feature request.
